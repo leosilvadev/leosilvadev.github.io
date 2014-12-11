@@ -27,8 +27,6 @@ h6 {
 }
 
 .intro-header {
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
 }
@@ -238,4 +236,12 @@ p.copyright {
 
 .progress-bar-ux{
     background-color: #FC5656;
+}
+
+.progress-bar-sin{
+    background-color: #999999;   
+}
+
+.progress-bar-soa{
+    background-color: #FC5656;   
 }
