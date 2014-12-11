@@ -208,6 +208,10 @@ p.copyright {
     background-color: #9DAD9D;
 }
 
+.progress-bar-bash{
+    background-color: #898756;
+}
+
 .progress-bar-html{
     background-color: #FC5656;
 }
@@ -222,4 +226,16 @@ p.copyright {
 
 .progress-bar-angular{
     background-color: rgba(232, 63, 63, 0.81);
+}
+
+.progress-bar-cloud{
+    background-color: #FAE731;
+}
+
+.progress-bar-alm{
+    background-color: #82CD91;
+}
+
+.progress-bar-ux{
+    background-color: #FC5656;
 }
