@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+#link-home {
+    padding: 5px;
+}
+
 #link-home img{
     height: 30px;
     margin-top: 5px;
