@@ -21,6 +21,16 @@ h6 {
     font-weight: 700;
 }
 
+#link-home img{
+    height: 30px;
+    margin-top: 5px;
+}
+
+#link-home label{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
 #content-about{
     margin-top: 150px;
 }
